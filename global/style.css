@@ -8,3 +8,11 @@
     background: #ffa500;
     color: #fff;
 }
+
+#modal {
+    display: block;
+}
+
+#modal.active {
+    display: none;
+}
