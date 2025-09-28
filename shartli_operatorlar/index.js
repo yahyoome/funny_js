@@ -1,0 +1,1 @@
+// shartli operatorlar
